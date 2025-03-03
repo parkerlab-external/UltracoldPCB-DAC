@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-04-08T17:20:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671325,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "DAC board modified"
+        },
+        "Owner": "Carlos Sagaseta Pagan <csagasetap@gmail.com>",
+        "Size": {
+            "X": 180.34,
+            "Y": 114.3
+        }
+    }
+}
